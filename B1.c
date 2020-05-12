@@ -8,6 +8,7 @@ int main()
 	printf("\n* Full name: Nguyen Van A      *");
 	printf("\n* Email: anv@fpt.aptech.ac.vn  *");
 	printf("\n* Phone: 0912345678            *");
+	printf("--------------------------------")
 	
 	return 0;
 }
